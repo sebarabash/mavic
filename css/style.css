@@ -90,7 +90,7 @@ select {
 
 /*/////////////////////// vars ///////////////////////////////////*/
 .top__subtitle, .about__text-small, .item__text, .item__wrapper__item_text, .dropdown__text, .contacts__ua_phone, .contacts__ua_mail, .contacts__ru_phone, .contacts__ru_mail, .contacts__by_phone, .contacts__by_mail, .form__subtitle, .copyright {
-  font-family: "Ubuntu light";
+  font-family: "Ubuntu Light";
   font-weight: 300;
 }
 
@@ -138,7 +138,7 @@ h3, .about__title, .advantages__title, .characteristics__title, .questions__titl
 
 /*/////////////////////// fonts ////////////////////////////////////*/
 @font-face {
-  font-family: "Ubuntu light";
+  font-family: "Ubuntu Light";
   src: url("../fonts/Ubuntu/Ubuntu-light.eot");
   src: local("☺"), url("../fonts/Ubuntu/Ubuntu-light.woff") format("woff"), url("../fonts/Ubuntu/Ubuntu-light.woff2") format("woff2"), url("../fonts/Ubuntu/Ubuntu-light.ttf") format("truetype");
   font-weight: 300;
