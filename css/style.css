@@ -178,7 +178,7 @@ h3,
 
 /*/////////////////////// fonts ////////////////////////////////////*/
 @font-face {
-  font-family: "Ubuntu-light";
+  font-family: "Ubuntu light";
   src: url("../fonts/Ubuntu/Ubuntu-light.eot");
   src: local("☺"), url("../fonts/Ubuntu/Ubuntu-light.woff") format("woff"), url("../fonts/Ubuntu/Ubuntu-light.woff2") format("woff2"),
     url("../fonts/Ubuntu/Ubuntu-light.ttf") format("truetype");
@@ -188,7 +188,7 @@ h3,
 }
 
 @font-face {
-  font-family: "Ubuntu-Regular";
+  font-family: "Ubuntu Regular";
   src: url("../fonts/Ubuntu/Ubuntu-Regular.eot");
   src: local("☺"), url("../fonts/Ubuntu/Ubuntu-Regular.woff") format("woff"), url("../fonts/Ubuntu/Ubuntu-Regular.woff2") format("woff2"),
     url("../fonts/Ubuntu/Ubuntu-Regular.ttf") format("truetype");
@@ -198,7 +198,7 @@ h3,
 }
 
 @font-face {
-  font-family: "Ubuntu-Medium";
+  font-family: "Ubuntu Medium";
   src: url("../fonts/Ubuntu/Ubuntu-Medium.eot");
   src: local("☺"), url("../fonts/Ubuntu/Ubuntu-Medium.woff") format("woff"), url("../fonts/Ubuntu/Ubuntu-Medium.woff2") format("woff2"),
     url("../fonts/Ubuntu/Ubuntu-Medium.ttf") format("truetype");
@@ -208,7 +208,7 @@ h3,
 }
 
 @font-face {
-  font-family: "Ubuntu-Bold";
+  font-family: "Ubuntu Bold";
   src: url("../fonts/Ubuntu/Ubuntu-Bold.eot");
   src: local("☺"), url("../fonts/Ubuntu/Ubuntu-Bold.woff") format("woff"), url("../fonts/Ubuntu/Ubuntu-Bold.woff2") format("woff2"),
     url("../fonts/Ubuntu/Ubuntu-Bold.ttf") format("truetype");
@@ -218,7 +218,7 @@ h3,
 }
 
 @font-face {
-  font-family: "SFProDisplay-Regular";
+  font-family: "SF Pro Display Regular";
   src: url("fonts/SFProDisplay-Regular.eot");
   src: local("☺"), url("fonts/SFProDisplay-Regular.woff") format("woff"), url("fonts/SFProDisplay-Regular.woff2") format("woff2"),
     url("fonts/SFProDisplay-Regular.ttf") format("truetype");
@@ -228,7 +228,7 @@ h3,
 }
 
 @font-face {
-  font-family: "SFProDisplay-Semibold";
+  font-family: "SF Pro Display Semibold";
   src: url("../fonts/sf/SFProDisplay-Semibold.eot");
   src: local("☺"), url("../fonts/sf/SFProDisplay-Semibold.woff") format("woff"), url("../fonts/sf/SFProDisplay-Semibold.woff2") format("woff2"),
     url("../fonts/sf/SFProDisplay-Semibold.ttf") format("truetype");
