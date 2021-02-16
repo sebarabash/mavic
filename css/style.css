@@ -41,10 +41,6 @@ ol[class] {
 }
 
 /* Элементы a, у которых нет класса, сбрасываем до дефолтных стилей */
-a:not([class]) {
-  text-decoration-skip-ink: auto;
-}
-
 a {
   text-decoration: none;
   color: inherit;
@@ -131,12 +127,12 @@ body, .form__name::placeholder, .form__mail::placeholder, .form__text::placehold
 h1,
 h2,
 h3, .about__title, .advantages__title, .characteristics__title, .questions__title, .contacts__title {
-  font-family: SFProDisplay-Regular sans-serif;
+  font-family: "SFProDisplay-Regular" sans-serif;
   font-weight: 400;
 }
 
 .top__title {
-  font-family: SFProDisplay-Semibold sans-serif;
+  font-family: "SFProDisplay-Semibold" sans-serif;
   font-weight: 600;
 }
 
