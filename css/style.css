@@ -127,12 +127,12 @@ body, .form__name::placeholder, .form__mail::placeholder, .form__text::placehold
 h1,
 h2,
 h3, .about__title, .advantages__title, .characteristics__title, .questions__title, .contacts__title {
-  font-family: "SF Pro Display Regular" sans-serif;
+  font-family: "SF Pro Display Regular";
   font-weight: 400;
 }
 
 .top__title {
-  font-family: "SF Pro Display Semibold" sans-serif;
+  font-family: "SF Pro Display Semibold";
   font-weight: 600;
 }
 
