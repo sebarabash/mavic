@@ -102,7 +102,7 @@ select {
 .contacts__by_mail,
 .form__subtitle,
 .copyright {
-  font-family: "Ubuntu-light";
+  font-family: "Ubuntu light";
   font-weight: 300;
 }
 
@@ -110,7 +110,7 @@ body,
 .form__name::-webkit-input-placeholder,
 .form__mail::-webkit-input-placeholder,
 .form__text::-webkit-input-placeholder {
-  font-family: "Ubuntu-Regular";
+  font-family: "Ubuntu Regular";
   font-weight: 400;
 }
 
@@ -118,7 +118,7 @@ body,
 .form__name:-ms-input-placeholder,
 .form__mail:-ms-input-placeholder,
 .form__text:-ms-input-placeholder {
-  font-family: "Ubuntu-Regular";
+  font-family: "Ubuntu Regular";
   font-weight: 400;
 }
 
@@ -126,7 +126,7 @@ body,
 .form__name::-ms-input-placeholder,
 .form__mail::-ms-input-placeholder,
 .form__text::-ms-input-placeholder {
-  font-family: "Ubuntu-Regular";
+  font-family: "Ubuntu Regular";
   font-weight: 400;
 }
 
@@ -134,13 +134,13 @@ body,
 .form__name::placeholder,
 .form__mail::placeholder,
 .form__text::placeholder {
-  font-family: "Ubuntu-Regular";
+  font-family: "Ubuntu Regular";
   font-weight: 400;
 }
 
 .slider__title,
 .dropdown__title {
-  font-family: "Ubuntu-Medium";
+  font-family: "Ubuntu Medium";
   font-weight: 500;
 }
 
@@ -155,7 +155,7 @@ body,
 .contacts__by,
 .form__title,
 .form__submit {
-  font-family: "Ubuntu-Bold";
+  font-family: "Ubuntu Bold";
   font-weight: 700;
 }
 
@@ -167,12 +167,12 @@ h3,
 .characteristics__title,
 .questions__title,
 .contacts__title {
-  font-family: "SFProDisplay-Regular" "sans-serif";
+  font-family: "San Francisco Pro Display Regular" sans-serif;
   font-weight: 400;
 }
 
 .top__title {
-  font-family: "SFProDisplay-Semibold" "sans-serif";
+  font-family: "San Francisco Pro Display Semibold" sans-serif;
   font-weight: 600;
 }
 
