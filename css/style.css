@@ -127,12 +127,12 @@ body, .form__name::placeholder, .form__mail::placeholder, .form__text::placehold
 h1,
 h2,
 h3, .about__title, .advantages__title, .characteristics__title, .questions__title, .contacts__title {
-  font-family: "SFProDisplay-Regular" "sans-serif";
+  font-family: "SFProDisplay Regular" sans-serif;
   font-weight: 400;
 }
 
 .top__title {
-  font-family: "SFProDisplay-Semibold" "sans-serif";
+  font-family: "SFProDisplay Semibold" sans-serif;
   font-weight: 600;
 }
 
@@ -174,7 +174,7 @@ h3, .about__title, .advantages__title, .characteristics__title, .questions__titl
 }
 
 @font-face {
-  font-family: "SFProDisplay-Regular";
+  font-family: "SFProDisplay Regular";
   src: url("fonts/SFProDisplay-Regular.eot");
   src: local("☺"), url("fonts/SFProDisplay-Regular.woff") format("woff"), url("fonts/SFProDisplay-Regular.woff2") format("woff2"), url("fonts/SFProDisplay-Regular.ttf") format("truetype");
   font-weight: 400;
@@ -183,7 +183,7 @@ h3, .about__title, .advantages__title, .characteristics__title, .questions__titl
 }
 
 @font-face {
-  font-family: "SFProDisplay-Semibold";
+  font-family: "SFProDisplay Semibold";
   src: url("../fonts/sf/SFProDisplay-Semibold.eot");
   src: local("☺"), url("../fonts/sf/SFProDisplay-Semibold.woff") format("woff"), url("../fonts/sf/SFProDisplay-Semibold.woff2") format("woff2"), url("../fonts/sf/SFProDisplay-Semibold.ttf") format("truetype");
   font-weight: 600;
